@@ -12,3 +12,28 @@ C:\Users\ONIDavid-A\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netco
 C:\Users\ONIDavid-A\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorTargetAssemblyInfo.cache
 C:\Users\ONIDavid-A\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.dll
 C:\Users\ONIDavid-A\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.pdb
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.deps.json
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.runtimeconfig.json
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.runtimeconfig.dev.json
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.dll
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.pdb
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.Views.dll
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.Views.pdb
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csprojAssemblyReference.cache
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csproj.CoreCompileInputs.cache
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorAssemblyInfo.cache
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorAssemblyInfo.cs
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.AssemblyInfoInputs.cache
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.AssemblyInfo.cs
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.TagHelpers.input.cache
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.TagHelpers.output.cache
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorCoreGenerate.cache
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorTargetAssemblyInfo.cache
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.Views.pdb
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.dll
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.pdb
+C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csproj.CopyComplete
