@@ -37,3 +37,16 @@ C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debu
 C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.dll
 C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.pdb
 C:\Users\ONI David Adedoyin\Source\Repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csproj.CopyComplete
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\Index.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\FeedbackComplete.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ONI David Adedoyin\source\repos\BethanyPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs

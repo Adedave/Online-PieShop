@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Linq;
 using BethanysPieShop.Models;
 using BethanysPieShop.ViewModels;
 using Microsoft.AspNetCore.Mvc;
@@ -19,12 +16,7 @@ namespace BethanysPieShop.Controllers
             _pieRepository = pieRepository;
         }
 
-        // GET: /<controller>/
-        //public IActionResult Index()
-        //{
-        //    return View();
-        //}
-
+        
         public IActionResult Index()
         {
 
@@ -32,11 +24,21 @@ namespace BethanysPieShop.Controllers
 
             var homeViewModel = new HomeViewModel()
             {
-                Title = "Welcome to Bethany's Shop",
+                Title = "Welcome to Client's Shop",
                 Pies = pies.ToList()
             };
 
             return View(homeViewModel);
+        }
+
+
+        public IActionResult Details(int id)
+        {
+            var pie = _pieRepository.GetPieById(id);
+            if (pie == null)
+                return NotFound();
+
+            return View(pie);
         }
     }
 }
